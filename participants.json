@@ -257,5 +257,15 @@
       "LongName": "session 2 insulin time 120",
       "Description": "Oral insulin Tolerance Test blood plasma insulin on timepoint 120 minutes for session 2",
       "Units": "mmol/L"
+   },
+   "participant_id": {
+      "Annotations": {
+         "IsAbout": {
+            "TermURL": "nb:ParticipantID",
+            "Label": ""
+         },
+         "Identifies": "participant"
+      },
+      "Description": "There should have been a description here, but there wasn't. :("
    }
 }
